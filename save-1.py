@@ -1,7 +1,7 @@
 import gym
 from stable_baselines3 import PPO
 
-env = gym.make('MountainCar-v0')
+env = gym.make('CartPole-v1')
 env.reset()
 
 model = PPO('MlpPolicy', env, verbose=1)
