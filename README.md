@@ -1,5 +1,5 @@
 # Intro-RL
 
 ## Todo
-- [] Add custom environment
+- [ ] Add custom environment
 
